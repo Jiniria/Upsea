@@ -1,2 +1,0 @@
-# Upsea
-Camera
